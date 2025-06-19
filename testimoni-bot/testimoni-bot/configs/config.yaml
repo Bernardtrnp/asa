@@ -1,0 +1,13 @@
+guild_id:
+  - 1384626159882604594
+role_admin: 
+  - 1384804347308671138
+
+extensions:
+  - events.on_ready
+  - events.on_application_command_error
+  - commands.api_key
+
+emoji_cross: <a:cross:1286871833534140486>
+emoji_tick: <a:tick:1286871575865331774>
+emoji_loading: <a:loading:1273581551036272753>
